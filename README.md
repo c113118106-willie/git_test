@@ -1,3 +1,3 @@
 # git_test
 
-Initial project repository.
+¾Ç²ßgit¨Ï¥Î
